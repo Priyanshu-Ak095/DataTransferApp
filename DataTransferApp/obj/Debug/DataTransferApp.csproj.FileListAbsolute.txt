@@ -1,0 +1,14 @@
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\bin\Debug\DataTransferApp.exe.config
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\bin\Debug\DataTransferApp.exe
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\bin\Debug\DataTransferApp.pdb
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp.csproj.AssemblyReference.cache
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\MainWindow.baml
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\MainWindow.g.cs
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\App.g.cs
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp_MarkupCompile.cache
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp.g.resources
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp.Properties.Resources.resources
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp.csproj.GenerateResource.cache
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp.csproj.CoreCompileInputs.cache
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp.exe
+C:\Users\priya\source\repos\DataTransferApp\DataTransferApp\obj\Debug\DataTransferApp.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="DataTransferApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Data transfer" Height="250" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Data transfer" FontSize="24" FontWeight="Bold" Foreground="White" Background="#11688a" Padding="10" />
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,20,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" >
+            <StackPanel Margin="10">
+                <Button Content="Send Data" Click="SendData_Click" BorderBrush="Green" BorderThickness="1" Width="100" Margin="0,0,0,10"/>
+                <Button Content="Receive Data" Click="ReceiveData_Click" BorderBrush="Green" BorderThickness="1" Width="100"/>
+            </StackPanel>
+
+            <StackPanel Margin="10">
+                <TextBox Name="TextBox1" Width="120" Height="30" PreviewTextInput="TextBox1_PreviewTextInput" MaxLength="16"/>
+                <TextBox Name="TextBox2" Width="120" Height="30" Margin="0,10,0,0" IsReadOnly="True"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
